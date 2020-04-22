@@ -1,11 +1,10 @@
-# frontier-hotel
-testing frontier
+
 <!DOCTYPE HTML>
 
 <html>
 
 
-  <title>frontier hotel</title>
+  
  <h1> WELCOME TO THE 5 STAR
   LUXURY HOTEL FRONTIER GATEWAY HOTEL RUMURUTI
   </h1>
