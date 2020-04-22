@@ -9,7 +9,6 @@
   LUXURY HOTEL FRONTIER GATEWAY HOTEL RUMURUTI
   </h1>
 
-![Image description](https://images.app.goo.gl/ztyuyDJPVyKXp4Gw8)
 <h2>Offering the perfect fusion of European luxury and kenyan hospitality.</h2>
            <a href="http://www.google.com"><img src="../../Downloads/IMG_20200422_132248_7.jpg" width="350" height="400" alt=""></a>
 
