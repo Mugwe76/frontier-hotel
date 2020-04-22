@@ -26,6 +26,7 @@
  </b>
  <a href="http://https://frontier-hotel-rumuruti.business.site/"><img src="https://images.app.goo.gl/FzY3KMSqbqPaKn4c7" width="350" height="400" alt=""></a>
  </p>
+ ![Image description](https://images.app.goo.gl/ztyuyDJPVyKXp4Gw8)
  <strong> contact</strong><br />
 
   0721453255
